@@ -30,7 +30,7 @@
 <br>
 
 [![GitHub CauaLima17](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://GitHub.com/CauaLima17)
-[![Instagram CauaLima17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cauadelima_) 
- 
- ![Snake animation](https://github.com/CauaLima17/CauaLima17/blob/output/github-contribution-grid-snake.svg)
+[![Instagram CauaLima17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cauadelima_)
 
+![Snake Animation](https://github.com/CauaLima17/CauaLima17/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CauaLima17&repo=CauaLima17&theme=react)](https://github.com/CauaLima17/CauaLima17)
